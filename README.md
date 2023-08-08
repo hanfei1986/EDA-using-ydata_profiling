@@ -1,5 +1,5 @@
 # EDA-using-ydata_profiling
-Ydata_profiling is a library to help data scientist quickly review data and find information and patterns in the data. This Jupyter notebook shows an example using ydata_profiling.
+Ydata_profiling is a library to help data scientists quickly review data and find information and patterns in the data. This Jupyter notebook shows an example using ydata_profiling.
 
 ![image](https://github.com/hanfei1986/EDA-using-ydata_profiling/assets/59255164/20c28fd4-97df-4c20-a9bc-3e8fc42a8fde)
 
