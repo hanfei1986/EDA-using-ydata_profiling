@@ -11,6 +11,9 @@ Ydata_profiling is a library to help data scientist quickly review data and find
 
 ![image](https://github.com/hanfei1986/EDA-using-ydata_profiling/assets/59255164/8ab35a74-eb4a-43af-8a06-c9c1c3255b25)
 
+![image](https://github.com/hanfei1986/EDA-using-ydata_profiling/assets/59255164/f4e425f6-696c-466c-88bb-2e8716b8126c)
+
+
 
 
 
